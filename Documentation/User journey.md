@@ -1,67 +1,4 @@
-# Redesigned Google meet app
 
-<<<<<<< HEAD
-## Redesigned Google meet app
-
-# Landing Slide
-
-
-
-
-# Main Slide
-
-
-
-
-
-# Main Slide- Recorded
-
-
-
-
-# Account Setting Slide 
-# Join button Slide
-
-
-# New Meeting Slide
-
-
-
-# Schedule Slide
-
-#Notifications Slide
-
-# Settings Slide
-
-
-
-# Meet Slide
-
-# Meet Slide-1
-
-# Meet Slide-2(Microphone)
-
-# Meet Slide-3 (People settings)
-
-# Meet Slide-4 (Meet settings)
-
-
-
-
-# Meet Slide-5 (About call- People)
-
-
-# Meet Slide-6 (About call- Settings) 
-
-
-
-
-
-# Meet Slide-7 (About call- Info)
-
-
-
-=======
 ## Landing Slide
 
 ![2021-11-13 (17)](https://user-images.githubusercontent.com/87236107/144249692-b7efb61d-c26c-43db-8aa6-4e6531c3249f.png)
@@ -130,4 +67,4 @@
 ## Meet Slide-7 (About call- Info)
 
 ![2021-11-13 (31)](https://user-images.githubusercontent.com/87236107/144250696-ab7d2679-4d42-4de8-865a-e6e5ff74b312.png)
->>>>>>> c1873a9447a73fd4c1c0c16bd5ea521c3e29d643
+
